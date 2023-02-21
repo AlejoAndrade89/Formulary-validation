@@ -5,7 +5,6 @@ export const Footer = () => {
     <div>
       <h2>Contacto</h2>
       <ul>
-        <li>Instagram</li>
         <li>Facebook</li>
         <li>LinkedIn</li>
       </ul>
