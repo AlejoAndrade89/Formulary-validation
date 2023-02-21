@@ -2,6 +2,7 @@ import "./App.css";
 import { Header } from "./Components/Header/Header";
 import { Main } from "./Components/Main/Main";
 import { Footer } from "./Components/Footer/Footer";
+import { Form } from "./Components/Form/Form";
 function App() {
   return (
     <div className="App">
@@ -13,9 +14,10 @@ function App() {
           <Main />
         </h2>
         <h3>
-          <Footer />
+          <Form />
         </h3>
       </ul>
+      <Footer />
     </div>
   );
 }

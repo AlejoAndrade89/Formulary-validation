@@ -1,5 +1,9 @@
 import React from "react";
 
 export const Main = () => {
-  return <div>Esto es el Main</div>;
+  return (
+    <div>
+      <h2>Esto es el Main, Bienvenido!!</h2>
+    </div>
+  );
 };
